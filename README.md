@@ -3,7 +3,7 @@
 <h3 align="center">_ABOUT ME🧐_</h3>
 <p align = "center">
 Univ. Korea Aerospace University(2021.03~)  </br>
-Major. Software (4.09/4.5)  </br>
+Major. Software (4.13/4.5)  </br>
 Birth. 2002.06.07 DongHae🌊  </br>
 Hobby. 📚(reading) 🧶(knitting) 🍪(baking)</br>
 </p>
